@@ -1,0 +1,30 @@
+_repo: Oeuvres-de-Andr--LemoyneUne-Idylle-normande.-Le-Moulin-des-Pr-s.-Alise-d--vran._17271
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lemoyne, André
+    alias: Lemoyne, Andre
+    birthdate: 1822
+    deathdate: 1907
+    gutenberg_agent_id: '7263'
+    url: http://www.gutenberg.org/2009/agents/7263
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17271'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction'
+title: 'Oeuvres de André Lemoyne
+
+  Une Idylle normande.—Le Moulin des Prés.—Alise d''Évran.'
+url: http://www.gutenberg.org/ebooks/17271
